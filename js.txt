@@ -1,3 +1,4 @@
 第三天js
 我是邢啸亮
 alert();
+console.log('xingxiaoliang')
